@@ -1,0 +1,32 @@
+*{
+
+}
+body{
+    
+}
+#conteudo{
+    margin: 100px auto;
+    width: 500px;
+    border-radius: 3px;
+
+}
+input{
+    width: 500px;
+    height: 40px;
+    background-color: bisque;
+    border: none;
+    outline: 0;
+}
+#button{
+    display: block;
+    margin: 0 auto;
+    background-color: rgb(0, 138, 46);
+    color: aliceblue;
+}
+span{
+    color: red;
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
